@@ -1,0 +1,11 @@
+{
+  "format_on_save": "on",
+  "languages": {
+    "TypeScript": {
+      "formatter": "prettier"
+    },
+    "JavaScript": {
+      "formatter": "prettier"
+    }
+  }
+}
